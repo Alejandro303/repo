@@ -1,1 +1,2 @@
 "primer archivo de prueba en repositorio"
+segunda linea de codigo git
