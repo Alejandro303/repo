@@ -8,3 +8,4 @@ linea nueva para rama develop
 
 linea para observa diferencia en repositorios locales y remotos
 
+linea para mirar dos commit en un push 
